@@ -1,6 +1,6 @@
 # Movie Recommendation System 🎬
 
-This project recommends movies to users based on their ratings and genres using machine learning techniques.  
+This project recommends movies to users based on their ratings and genres using unsupervised machine learning techniques.  
 
 ---
 
